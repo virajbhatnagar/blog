@@ -1,0 +1,17 @@
+{
+  “EmployeeID”: 1,
+  “Name”: “John”,
+  “Age”: 24,
+  “IncomeDetails”: “{
+    “Salary”: 10000
+  }
+}
+
+{
+  “EmployeeID”: 2,
+  “Name”: “James”,
+  “Age”: 24,
+  “IncomeDetails”: “{
+    “Salary”: 12000
+  }
+}
